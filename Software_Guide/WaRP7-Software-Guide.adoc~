@@ -1,0 +1,15 @@
+= Heading for WaRP7 Software Guide
+
+=============================
+:doctype:   book
+:toc:       left
+:toclevels: 2
+:pagenums:  1
+:imagesdir: images
+
+include::preface.adoc[]
+
+include::01-Chapter-Uno/chapter.adoc[]
+
+include::02-Chapter-Dos/chapter.adoc[]
+

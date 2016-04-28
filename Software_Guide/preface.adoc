@@ -1,0 +1,44 @@
+==About this manual
+
+[cols="1,2"]
+|===
+|*Original title*
+|ADD TITLE
+
+|*License*
+|Creative Commons Attribution-ShareAlike 3.0 United States License
+
+|*Author*
+|Andres Lopez de Vergara
+
+|*Author*
+|Mohit Kedia
+
+|*Manual version*
+|Git!
+|===
+
+[preface]
+== Preface
+
+CREATE A PREFACE FOR THE MANUAL
+
+== Conventions Used in This Book
+
+The following typographical conventions are used in this book:
+
+_Italic_:: EXAMPLE 
+
++Constant width+:: EXAMPLE
+
+**`Constant width bold`**:: EXAMPLE
+
+_++Constant width italic++_:: EXAMPLE
+
+TIP: This element signifies a tip or suggestion.
+
+NOTE: This element signifies a general note.
+
+WARNING: This element indicates a warning or caution.
+
+:numbered:

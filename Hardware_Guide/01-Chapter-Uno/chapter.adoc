@@ -1,0 +1,28 @@
+[[yp]]
+== TITLE
+
+text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text:
+
+[quote, QUOTE]
+quote-quote-quote-quote-quote-quote-quote-quote-quote-quote-quote-quote-quote-quote-quote-quote-quote-quote-quote-quote-quote-quote-quote-quote-quote-quote-quote-quote-quote-quote-quote-quote-quote-quote-quote-quote-quote-quote-quote-quote-quote-quote-quote-quote-quote-quote-quote-quote- 
+
+Links: http://www.nxp.com
+
+Header 3:: text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text;
+
+IMAGE EXAMPLE
+[[yp-input-output]]
+.The Yocto Project seen as a Computing Machine
+image::yp-input-output.png[align=center, scaledwidth="100%"]
+
+* Bullet1;
+* Bullet2;
+* Bullet3.
+
+include::sections/Section-One.adoc[]
+
+:numbered!:
+=== Summary
+:numbered:
+
+Chapter Summary text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-text-
