@@ -1,5 +1,4 @@
-= Heading for WaRP7 Software Guide
-=============================
+= WaRP7 Software Guide
 :doctype:   book
 :toc:       left
 :toclevels: 2
