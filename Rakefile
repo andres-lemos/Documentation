@@ -1,7 +1,7 @@
 namespace :build do
   desc 'prepare build'
   task :prebuild do
-    Dir.mkdir 'Software_Guide/book/images' unless Dir.exists? 'Software_Guide/images'
+    Dir.mkdir 'Software_Guide/images' unless Dir.exists? 'Software_Guide/images'
     Dir.glob("Software_Guide/*/images/*").each do |image|
       FileUtils.copy(image, "Software_Guide/images/" + File.basename(image))
     end
