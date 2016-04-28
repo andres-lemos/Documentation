@@ -1,4 +1,4 @@
-==About this manual
+== About this manual
 
 [cols="1,2"]
 |===
