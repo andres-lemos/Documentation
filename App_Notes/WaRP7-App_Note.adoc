@@ -1,4 +1,4 @@
-WaRP7 App Note
+= WaRP7 App Note
 :doctype:   book
 :toc:       left
 :toclevels: 2
