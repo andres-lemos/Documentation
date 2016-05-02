@@ -1,6 +1,6 @@
-= WaRP7 Software Guide
+= WaRP7 Documentation
 
-Welcome to the WaRP7 Software Guide.
+Welcome to the WaRP7 Documentation.
 
 This book is open source under a Creative Commons license.
 
