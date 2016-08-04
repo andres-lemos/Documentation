@@ -1,4 +1,6 @@
-= WaRP7 Documentation
+= Documentation Template usign adoc. 
+
+WaRP7 board chosen as mock board for the template.
 
 Welcome to the WaRP7 Documentation.
 
